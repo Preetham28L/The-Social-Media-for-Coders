@@ -1,0 +1,47 @@
+{
+  "users": [
+    {"id": 1, "name": "Amit", "friends": [2, 3, 4], "liked_pages": [101, 102, 103]},
+    {"id": 2, "name": "Priya", "friends": [1, 5, 6], "liked_pages": [101, 104]},
+    {"id": 3, "name": "Rahul", "friends": [1, 7], "liked_pages": [102, 103]},
+    {"id": 4, "name": "Sara", "friends": [1, 8], "liked_pages": [105]},
+    {"id": 5, "name": "Kiran", "friends": [2, 9], "liked_pages": [101, 106]},
+    {"id": 6, "name": "Anjali", "friends": [2, 10], "liked_pages": [103, 104]},
+    {"id": 7, "name": "Vikram", "friends": [3, 11], "liked_pages": [102, 107]},
+    {"id": 8, "name": "Neha", "friends": [4, 12], "liked_pages": [101, 105]},
+    {"id": 9, "name": "Ravi", "friends": [5, 13], "liked_pages": [106, 108]},
+    {"id": 10, "name": "Pooja", "friends": [6, 14], "liked_pages": [101, 102]},
+    {"id": 11, "name": "Arjun", "friends": [7, 15], "liked_pages": [107, 108]},
+    {"id": 12, "name": "Meera", "friends": [8], "liked_pages": [101, 104]},
+    {"id": 13, "name": "Sanjay", "friends": [9], "liked_pages": [106, 102]},
+    {"id": 14, "name": "Divya", "friends": [10], "liked_pages": [103, 105]},
+    {"id": 15, "name": "Rohit", "friends": [11], "liked_pages": [101, 107]},
+    {"id": 16, "name": "Amit", "friends": [2, 3, 4], "liked_pages": [101, 102, 103]},  
+    {"id": 17, "name": "Priya", "friends": [1, 5], "liked_pages": [101, 104, 104]},  
+    {"id": 18, "name": "", "friends": [7, 11], "liked_pages": [102, 107]},  
+    {"id": 19, "name": "Rahul", "friends": [8,9,9], "liked_pages": [102, 103]},  
+    {"id": 20, "name": "Sara", "friends": [1, 8, 8], "liked_pages": [105, 105]},  
+    {"id": 21, "name": "Kiran", "friends": [2, 9], "liked_pages": [101,101]},  
+    {"id": 22, "name": "Anjali", "friends": [2, 10], "liked_pages": [103, 110]},  
+    {"id": 23, "name": "Vikram", "friends": [3, 11, 11], "liked_pages": [102, 107]},  
+    {"id": 24, "name": "Neha", "friends": [3], "liked_pages": [101, 105]},  
+    {"id": 25, "name": "Ravi", "friends": [5, 13], "liked_pages": [106, 108, 108]},  
+    {"id": 26, "name": "Pooja", "friends": [6, 14], "liked_pages": [101]},  
+    {"id": 27, "name": "", "friends": "", "liked_pages": [103]},  
+    {"id": 28, "name": "Arjun", "friends": [7, 15], "liked_pages": [107, 108]},  
+    {"id": 29, "name": "Meera", "friends": [8], "liked_pages": [101, 104]},  
+    {"id": 30, "name": "Sanjay", "friends": [9], "liked_pages": [106, 102]}  
+  ],
+  
+  "pages": [
+    {"id": 101, "name": "GitHub"},
+    {"id": 102, "name": "LeetCode"},
+    {"id": 103, "name": "Stack Overflow"},
+    {"id": 104, "name": "HackerRank"},
+    {"id": 105, "name": "CodePen"},
+    {"id": 106, "name": "GeeksforGeeks"},
+    {"id": 107, "name": "Codeforces"},
+    {"id": 108, "name": "Kaggle"},
+    {"id": 109, "name": "GitHub"},  
+    {"id": 110, "name": ""}       
+  ]
+}

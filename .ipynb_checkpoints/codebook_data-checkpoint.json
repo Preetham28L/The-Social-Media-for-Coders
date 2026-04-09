@@ -1,0 +1,29 @@
+{
+    "users": [
+        {"id": 1, "name": "Amit", "friends": [2, 3, 4], "liked_pages": [101, 102]},
+        {"id": 2, "name": "Priya", "friends": [1, 5, 6], "liked_pages": [102]},
+        {"id": 3, "name": "Rahul", "friends": [1, 7], "liked_pages": [101, 103]},
+        {"id": 4, "name": "Sara", "friends": [1, 8], "liked_pages": [104]},
+        {"id": 5, "name": "Kiran", "friends": [2, 9], "liked_pages": [103]},
+        {"id": 6, "name": "Anjali", "friends": [2, 10], "liked_pages": [101, 104]},
+        {"id": 7, "name": "Vikram", "friends": [3, 11], "liked_pages": [105]},
+        {"id": 8, "name": "Neha", "friends": [4, 12], "liked_pages": [102, 106]},
+        {"id": 9, "name": "Ravi", "friends": [5, 13], "liked_pages": [103, 107]},
+        {"id": 10, "name": "Pooja", "friends": [6, 14], "liked_pages": [101]},
+        {"id": 11, "name": "Arjun", "friends": [7, 15], "liked_pages": [108]},
+        {"id": 12, "name": "Meera", "friends": [8], "liked_pages": [106]},
+        {"id": 13, "name": "Sanjay", "friends": [9], "liked_pages": [107, 102]},
+        {"id": 14, "name": "Divya", "friends": [10], "liked_pages": [104, 105]},
+        {"id": 15, "name": "Rohit", "friends": [11], "liked_pages": [108, 103]}
+    ],
+    "pages": [
+        {"id": 101, "name": "Python Developers"},
+        {"id": 102, "name": "Data Science Enthusiasts"},
+        {"id": 103, "name": "AI & ML Community"},
+        {"id": 104, "name": "Web Dev Hub"},
+        {"id": 105, "name": "Cloud Computing"},
+        {"id": 106, "name": "UI/UX Designers"},
+        {"id": 107, "name": "Cyber Security"},
+        {"id": 108, "name": "Blockchain Innovators"}
+    ]
+}
